@@ -6,11 +6,19 @@ the Philosophy of Life
 
 A cell's eye view in a universe that is Conway's game of life.
 
+
+
+live at: 
+
+https://greggelong.github.io/philOfLife/
+
+
 ---------
+
 
 I originally wrote this code on the P5 web editor in January of 2020 and 
 
-hosted it thereas well. 
+hosted it there as well. 
 
 https://editor.p5js.org/greggelong/sketches/ox4IIE3yt
 
